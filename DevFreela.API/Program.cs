@@ -1,4 +1,7 @@
 using DevFreela.API.Models;
+using DevFreela.Application.Services.Implementations;
+using DevFreela.Application.Services.Interfaces;
+using DevFreela.Infrastructure.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +12,9 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.Configure<OpeningTimeOption>(builder.Configuration.GetSection("OpeningTime"));
+
+builder.Services.AddSingleton<DevFreelaDbContext>();
+builder.Services.AddScoped<IProjectService, ProjectService>();
 
 var app = builder.Build();
 

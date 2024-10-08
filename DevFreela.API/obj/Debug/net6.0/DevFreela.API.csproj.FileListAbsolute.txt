@@ -24,9 +24,16 @@ C:\Users\David\Documents\Programação\MentoriaDotnet\dotnetFundamentos\DevFreel
 C:\Users\David\Documents\Programação\MentoriaDotnet\dotnetFundamentos\DevFreela\DevFreela.API\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\David\Documents\Programação\MentoriaDotnet\dotnetFundamentos\DevFreela\DevFreela.API\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\David\Documents\Programação\MentoriaDotnet\dotnetFundamentos\DevFreela\DevFreela.API\obj\Debug\net6.0\scopedcss\bundle\DevFreela.API.styles.css
-C:\Users\David\Documents\Programação\MentoriaDotnet\dotnetFundamentos\DevFreela\DevFreela.API\obj\Debug\net6.0\DevFreela.API.csproj.CopyComplete
 C:\Users\David\Documents\Programação\MentoriaDotnet\dotnetFundamentos\DevFreela\DevFreela.API\obj\Debug\net6.0\DevFreela.API.dll
 C:\Users\David\Documents\Programação\MentoriaDotnet\dotnetFundamentos\DevFreela\DevFreela.API\obj\Debug\net6.0\refint\DevFreela.API.dll
 C:\Users\David\Documents\Programação\MentoriaDotnet\dotnetFundamentos\DevFreela\DevFreela.API\obj\Debug\net6.0\DevFreela.API.pdb
 C:\Users\David\Documents\Programação\MentoriaDotnet\dotnetFundamentos\DevFreela\DevFreela.API\obj\Debug\net6.0\DevFreela.API.genruntimeconfig.cache
 C:\Users\David\Documents\Programação\MentoriaDotnet\dotnetFundamentos\DevFreela\DevFreela.API\obj\Debug\net6.0\ref\DevFreela.API.dll
+C:\Users\David\Documents\Programação\MentoriaDotnet\dotnetFundamentos\DevFreela\DevFreela.API\bin\Debug\net6.0\DevFreela.Application.dll
+C:\Users\David\Documents\Programação\MentoriaDotnet\dotnetFundamentos\DevFreela\DevFreela.API\bin\Debug\net6.0\DevFreela.Core.dll
+C:\Users\David\Documents\Programação\MentoriaDotnet\dotnetFundamentos\DevFreela\DevFreela.API\bin\Debug\net6.0\DevFreela.Infrastructure.dll
+C:\Users\David\Documents\Programação\MentoriaDotnet\dotnetFundamentos\DevFreela\DevFreela.API\bin\Debug\net6.0\DevFreela.Application.pdb
+C:\Users\David\Documents\Programação\MentoriaDotnet\dotnetFundamentos\DevFreela\DevFreela.API\bin\Debug\net6.0\DevFreela.Infrastructure.pdb
+C:\Users\David\Documents\Programação\MentoriaDotnet\dotnetFundamentos\DevFreela\DevFreela.API\bin\Debug\net6.0\DevFreela.Core.pdb
+C:\Users\David\Documents\Programação\MentoriaDotnet\dotnetFundamentos\DevFreela\DevFreela.API\obj\Debug\net6.0\DevFreela.API.sourcelink.json
+C:\Users\David\Documents\Programação\MentoriaDotnet\dotnetFundamentos\DevFreela\DevFreela.API\obj\Debug\net6.0\DevFreel.84249821.Up2Date
